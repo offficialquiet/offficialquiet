@@ -5,13 +5,11 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=About+me)]()<br>
-### 👋 Hi, I’m Quiet!  
+### 👋Hi, I’m Quiet!
 
-I’ve been **coding for over 2 years**, and I love exploring all kinds of projects – from web stuff to experimenting with new ideas.  
+I’m a content creator and manager for our Minecraft server — I record, edit, and plan videos that showcase our community and projects. I love turning gameplay moments into creative stories and helping our team bring their ideas to life.
 
-✨ When I’m not coding, you’ll probably find me **watch videos**, **listening to music**, or thinking about my next project.  
-
-
+✨ Besides that, I also run my own TikTok account, where I share clips, highlights, and fun moments from our server and other creative projects. Creating content and connecting with people through it is something I really enjoy!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Tech+stack)]()<br>
 | **Category**             | **Tools & Languages**                                                                                                                                                                            |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
